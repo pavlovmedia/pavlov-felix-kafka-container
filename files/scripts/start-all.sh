@@ -7,4 +7,4 @@
 # runs zookeeper, kafka via supervisor configuration files
 supervisord
 
-/opt/felix/current/start-felix.sh
+/opt/felix/current/startFelix.sh
